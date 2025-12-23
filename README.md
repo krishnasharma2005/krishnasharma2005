@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-I am a second-year Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning**, alongside a **B.Sc. in Data Science from IIT Madras**. I enjoy building **end-to-end technical systems** that combine strong theoretical foundations with real-world applicability—ranging from AI-driven analysis tools to real-time systems and secure software platforms.
+I am a third-year Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning**, alongside a **B.Sc. in Data Science from IIT Madras**. I enjoy building **end-to-end technical systems** that combine strong theoretical foundations with real-world applicability—ranging from AI-driven analysis tools to real-time systems and secure software platforms.
 
 My interests lie at the intersection of:
 - Artificial Intelligence & Machine Learning  
@@ -42,7 +42,7 @@ My interests lie at the intersection of:
 ## 🔧 Technical Skills
 
 **Programming Languages:**  
-- Python, C++, C, JavaScript  
+- Python, C++, C, HTML, CSS, JavaScript  
 
 **Frameworks & Tools:**  
 - Flask, FastAPI  
